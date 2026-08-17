@@ -58,4 +58,3 @@ When you run a command, the utility prints clear statistics about the process:
 
 ## ⚠️ Note on Already-Compressed Files
 If you try to compress a file that is already compressed (like a `.zip`, `.mp3`, or `.jpg`), the output `.huf` file might be slightly larger than the original. This is expected! These formats already remove redundant data, so Huffman coding cannot shrink them further, and the tool simply adds its small header overhead.
-```
