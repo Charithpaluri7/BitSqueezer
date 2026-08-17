@@ -1,6 +1,3 @@
-***
-
-```markdown
 # Bitsqueezer
 
 A fast, command-line file compression utility built in C++ using the Huffman Coding algorithm. It operates on raw binary data, allowing it to safely compress and decompress any file type—from plain text to images and executables.
